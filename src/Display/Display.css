@@ -1,0 +1,16 @@
+.display-bar {
+  display: flex;
+  height: 50px;
+  width: 100%;
+  
+}
+
+.first-value {
+  height: 100%;
+  background-color: lightblue;
+}
+
+.second-value {
+  height: 100%;
+  background-color: red;
+}
